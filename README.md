@@ -12,4 +12,4 @@ After completing these steps the program will begin video creation, randomly int
 Your file (default name 'output.mp4') will be created in the same directory as the python file.
 
 Future plans:
-Customizable file name, duration, and sound frequency)
+Customizable file name, duration, and sound frequency
