@@ -1,7 +1,7 @@
 # DistractingVideoGenerator
 A python program which allows the user to create customizable mp4 files with occasional sound effects.
 
-To run, download VideoGenerator.py and open with Python (Tested with Python 3.11, though other version may work as well).
+To run, download VideoGenerator.py and open with Python (tested with Python 3.11, though other versions may work as well).
 
 Running will open a command prompt window, which will prompt the user an image via file browser to use as the video thumbnail.
 
