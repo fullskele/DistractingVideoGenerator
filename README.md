@@ -5,7 +5,7 @@ To run, download VideoGenerator.py and open with Python (tested with Python 3.11
 
 Running will open a command prompt window, which will prompt the user an image via file browser to use as the video thumbnail.
 
-Next, the program prompts the user for audio files to play throughout the video. Any amount of files may be chosen for this part.
+Next, the user selects audio files to play throughout the video. Any amount of files may be chosen for this part.
 
 After completing these steps the program will begin video creation, randomly interspersing the chosen sound effects to play throughout the video duration (default ~1hr).
 
